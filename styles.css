@@ -67,7 +67,7 @@
 
 .item-9 {
     background-color: #fbfbfb;
-    height: 70vh;
+    height: 20vh;
 }
 
 .item-10 {
@@ -77,7 +77,7 @@
 
 .item-11 {
     background-color: #f8f8f8;
-    height: 70vh;
+    height: 40vh;
 }
 
 .item-12 {
@@ -288,36 +288,36 @@
     background-color: #F8BB10;
 }
 
-.photoshop {
-    width: 80%;
+.django {
+    width: 50%;
 }
 
 .git {
     width: 70%;
 }
 
-.sketch {
-    width: 90%;
-}
-
-.pagespeed {
-    width: 85%;
-}
-
-.illustrator {
-    width: 75%;
-}
-
-.aftereff {
-    width: 65%;
+.js {
+    width: 60%;
 }
 
 .css {
+    width: 70%;
+}
+
+.react {
     width: 50%;
 }
 
-.seo {
-    width: 95%;
+.tia {
+    width: 85%;
+}
+
+.codesys {
+    width: 50%;
+}
+
+.python {
+    width: 60%;
 }
 
 .item-10 {
@@ -328,7 +328,7 @@
 
 .time_line {
     height: 100%;
-    width: 4px;
+    width: 2px;
     background-color: #ececec;
     margin-right: 15px;
 }
@@ -396,6 +396,11 @@
     background-color: #ccc;
     border: 0;
     margin-top: 5%;
+}
+
+.add {
+    color: #939393;
+    font-family: "Lato", Arial, Helvetica, sans-serif;
 }
 
 /*mobile*/
